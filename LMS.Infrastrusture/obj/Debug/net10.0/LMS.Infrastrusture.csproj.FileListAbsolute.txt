@@ -1,0 +1,17 @@
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/bin/Debug/net10.0/LMS.Infrastrusture.deps.json
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/bin/Debug/net10.0/LMS.Infrastrusture.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/bin/Debug/net10.0/LMS.Infrastrusture.pdb
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/bin/Debug/net10.0/LMS.Application.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/bin/Debug/net10.0/LMS.Domain.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/bin/Debug/net10.0/LMS.Domain.pdb
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/bin/Debug/net10.0/LMS.Application.pdb
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.csproj.AssemblyReference.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.AssemblyInfoInputs.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.AssemblyInfo.cs
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.csproj.CoreCompileInputs.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infr.7F0DD784.Up2Date
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/refint/LMS.Infrastrusture.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.pdb
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/ref/LMS.Infrastrusture.dll

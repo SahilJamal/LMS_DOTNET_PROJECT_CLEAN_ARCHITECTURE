@@ -1,0 +1,15 @@
+/home/sahil/sahil/dotnet/LMS/LMS.Application/bin/Debug/net10.0/LMS.Application.deps.json
+/home/sahil/sahil/dotnet/LMS/LMS.Application/bin/Debug/net10.0/LMS.Application.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Application/bin/Debug/net10.0/LMS.Application.pdb
+/home/sahil/sahil/dotnet/LMS/LMS.Application/bin/Debug/net10.0/LMS.Domain.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Application/bin/Debug/net10.0/LMS.Domain.pdb
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.csproj.AssemblyReference.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.AssemblyInfoInputs.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.AssemblyInfo.cs
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.csproj.CoreCompileInputs.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Appl.3451E0AD.Up2Date
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/refint/LMS.Application.dll
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.pdb
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/ref/LMS.Application.dll
