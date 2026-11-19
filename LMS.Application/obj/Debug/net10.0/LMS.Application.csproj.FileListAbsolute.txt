@@ -8,6 +8,7 @@
 /home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.AssemblyInfoInputs.cache
 /home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.AssemblyInfo.cs
 /home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.csproj.CoreCompileInputs.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.sourcelink.json
 /home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Appl.3451E0AD.Up2Date
 /home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/LMS.Application.dll
 /home/sahil/sahil/dotnet/LMS/LMS.Application/obj/Debug/net10.0/refint/LMS.Application.dll

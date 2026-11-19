@@ -1,5 +1,7 @@
 using LMS.Application.Interfaces.Repositories;
 using LMS.Infrastructure.Repositories;
+using LMS.Application.Interfaces.Services;
+using LMS.Infrastructure.Services;
 using Microsoft.EntityFrameworkCore;
 using LMS.Infrastructure.Persistence;
 using Microsoft.Extensions.Configuration;
@@ -25,7 +27,13 @@ public static class DependencyInjection
         services.AddDbContext<AppDbContext>(options =>
             options.UseMySQL(connectionString));
 
+	//Repositories
         services.AddScoped<ICourseRepository, CourseRepository>();
+        services.AddScoped<IUserRepository, UserRepository>();
+
+        // Services
+        services.AddScoped<IPasswordService, PasswordService>();
+        services.AddScoped<IJwtTokenService, JwtTokenService>();
 
         return services;
     }

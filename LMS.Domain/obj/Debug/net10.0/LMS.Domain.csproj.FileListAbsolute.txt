@@ -5,6 +5,7 @@
 /home/sahil/sahil/dotnet/LMS/LMS.Domain/obj/Debug/net10.0/LMS.Domain.AssemblyInfoInputs.cache
 /home/sahil/sahil/dotnet/LMS/LMS.Domain/obj/Debug/net10.0/LMS.Domain.AssemblyInfo.cs
 /home/sahil/sahil/dotnet/LMS/LMS.Domain/obj/Debug/net10.0/LMS.Domain.csproj.CoreCompileInputs.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Domain/obj/Debug/net10.0/LMS.Domain.sourcelink.json
 /home/sahil/sahil/dotnet/LMS/LMS.Domain/obj/Debug/net10.0/LMS.Domain.dll
 /home/sahil/sahil/dotnet/LMS/LMS.Domain/obj/Debug/net10.0/refint/LMS.Domain.dll
 /home/sahil/sahil/dotnet/LMS/LMS.Domain/obj/Debug/net10.0/LMS.Domain.pdb

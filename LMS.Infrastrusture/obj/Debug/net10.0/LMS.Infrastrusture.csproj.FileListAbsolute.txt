@@ -10,6 +10,7 @@
 /home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.AssemblyInfoInputs.cache
 /home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.AssemblyInfo.cs
 /home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.csproj.CoreCompileInputs.cache
+/home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.sourcelink.json
 /home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infr.7F0DD784.Up2Date
 /home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/LMS.Infrastrusture.dll
 /home/sahil/sahil/dotnet/LMS/LMS.Infrastrusture/obj/Debug/net10.0/refint/LMS.Infrastrusture.dll
